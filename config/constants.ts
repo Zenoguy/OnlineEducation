@@ -47,10 +47,10 @@ export const REALTIME_CONFIG = {
 
 // Application Settings
 export const APP_CONFIG = {
-  name: 'EduConnect',
+  name: 'ClassSync',
   version: '1.0.0',
   description: 'Modern online learning platform',
-  supportEmail: 'support@educonnect.com',
+  supportEmail: 'support@ClassSync.com',
   maxClassSize: 100,
   maxNotesPerClass: 1000,
   maxHomeworkPerClass: 50

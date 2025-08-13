@@ -37,7 +37,7 @@ export default function Home() {
         <div className="container mx-auto px-4 h-16 flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <GraduationCap className="h-8 w-8 text-primary" />
-            <h1 className="text-xl font-bold text-foreground">EduConnect</h1>
+            <h1 className="text-xl font-bold text-foreground">ClassSync</h1>
           </div>
           <ThemeToggle />
         </div>

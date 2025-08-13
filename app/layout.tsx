@@ -7,8 +7,8 @@ import { Toaster } from '@/components/ui/sonner';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'EduConnect - Online Learning Platform',
-  description: 'Modern online learning platform for teachers and students',
+title: 'ClassSync – Your Digital Classroom Companion',
+description: 'Peer-to-peer learning, AI video insights, and organized homework tracking in one sleek, responsive platform.',
 };
 
 export default function RootLayout({

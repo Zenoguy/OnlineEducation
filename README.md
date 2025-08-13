@@ -1,4 +1,4 @@
-# EduConnect - Modern Online Learning Platform
+# ClassSync - Modern Online Learning Platform
 
 A comprehensive online learning platform built with Next.js, featuring AI-powered video search, real-time note sharing, and comprehensive homework management.
 
@@ -67,7 +67,7 @@ A comprehensive online learning platform built with Next.js, featuring AI-powere
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd educonnect
+   cd ClassSync
    ```
 
 2. **Install dependencies**
@@ -241,8 +241,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 For support and questions:
-- Email: support@educonnect.com
-- Documentation: [docs.educonnect.com](docs.educonnect.com)
+- Email: support@ClassSync.com
+- Documentation: [docs.ClassSync.com](docs.ClassSync.com)
 - Issues: GitHub Issues
 
 ---
