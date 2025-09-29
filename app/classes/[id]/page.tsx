@@ -25,6 +25,18 @@ import {
 import { useAuth } from '@/hooks/use-auth';
 import Link from 'next/link';
 
+export async function generateStaticParams() {
+  // Return static params for pre-rendering
+  // You can replace these with actual class IDs from your data source
+  return [
+    { id: '1' },
+    { id: '2' },
+    { id: '3' },
+    { id: 'react-fundamentals' },
+    { id: 'javascript-basics' }
+  ];
+}
+
 export default function ClassDetail() {
   const params = useParams();
   const { user } = useAuth();
